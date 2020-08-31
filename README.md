@@ -8,7 +8,7 @@ Library Dependencies for SpeechGrade:
 2.	PyAudio
  >>> pip install PyAudio
 Note for Windows users: If you encounter any error trying to install PyAudio on your system, try the following:
- >>> pip install pipwin
+ >>> pip install pipwin ;
  >>> pipwin install PyAudio
 
 
